@@ -1,0 +1,7 @@
+.navbar__cont{
+    display: flex;
+    justify-content: space-between;
+}
+.img-navbar{
+    width: 100px;
+}
